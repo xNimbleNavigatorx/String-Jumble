@@ -26,7 +26,13 @@ handy find may you that tricks or techniques few a are There
 erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 
+
 s = input("Please enter a string of text (the bigger the better): ")
 print('You entered "' + s + '". Now jumble it:') 
 r = s[::-1]
 print(r)
+
+result = s.split()
+print(result)
+gh = result[::-1]
+print(gh)
