@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: xNimbleNavigatorx
-Credit: <sources>
+Credit: Mr. Dennison 
 
 Assignment:
 
