@@ -33,6 +33,13 @@ r = s[::-1]
 print(r)
 
 result = s.split()
-print(result)
 gh = result[::-1]
-print(gh)
+for a in list(gh):
+    print(a, end = " ")
+print(" ")
+for a in list(result):
+    if a != " ":
+        h = a[::-1]
+        print(h, end = " ")
+    
+    
